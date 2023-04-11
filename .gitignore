@@ -136,3 +136,4 @@ credentials.json
 token.json
 output.*
 _*.ipynb
+.DS_Store
