@@ -133,7 +133,7 @@ __azurite*
 __blobstorage__/
 .chroma
 credentials.json
-token.json
-output.*
+tokens.json
+output*.*
 _*.ipynb
 .DS_Store
